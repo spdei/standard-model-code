@@ -1,6 +1,6 @@
 # One generation of the Standard Model as a quantum error-correcting code
 
-Scripts accompanying the paper by Shiroman Prakash and K. L. Ramya, arXiv:XXXX.XXXXX. 
+Scripts accompanying the paper by Shiroman Prakash and K. L. Ramya, https://arxiv.org/abs/2610.21879.
 
 
 ## Python
@@ -37,13 +37,14 @@ The `magma` folder contains scripts written in Magma, which requires a licence. 
 ## Citation
 
 ```bibtex
-@article{Prakash2026,
-    author        = "Prakash, Shiroman and Ramya, K. L.",
-    title         = "{One generation of the Standard Model as a quantum error-correcting code}",
-    eprint        = "XXXX.XXXXX",
-    archivePrefix = "arXiv",
-    primaryClass  = "quant-ph",
-    year          = "2026"
+@misc{prakash2026generationstandardmodelquantum,
+      title={One generation of the Standard Model as a quantum error-correcting code}, 
+      author={Shiroman Prakash and K. L. Ramya},
+      year={2026},
+      eprint={2610.21879},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2610.21879}, 
 }
 ```
 
