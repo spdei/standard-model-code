@@ -2,7 +2,7 @@
 
 These scripts require [Magma](http://magma.maths.usyd.edu.au/magma/), which needs a licence. They are an optional cross-check of the Python scripts.
 
-These scripts do not use the Python code. Run them from this folder:
+They do not use the Python code. Run them from this folder:
 
 ```
 cd magma
